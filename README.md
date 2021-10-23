@@ -1,4 +1,4 @@
-# DiplomaThesis
+# Diploma Thesis
 
 This project is created to collect some tweet information from Twitter in real time.
 
